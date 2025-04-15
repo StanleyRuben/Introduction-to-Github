@@ -6,7 +6,7 @@
 <details open>
 <p>Welcome to my <i>'Introduction of Github'</i>! 👋</p>
 <summary><h2>Welcome to Github!</h2></summary>
-<b>What is Github?</b><p>Github is a service, which was founded in 2008. It is based on Git which is a distributed version control system. It was always made by Linus Torvalds for the Linux kernel!</p>
+<b>What is Github?</b><p>Github is a service, which was founded in 2008. It is based on Git which is a distributed version control system. It was also made by Linus Torvalds for the Linux kernel!</p>
 <p>Although, now it is a pillar of the FOSS community. This is due to the easy of contributing and hosting open-source software on Github! The definition of 'Open-source' is: 'A project which has it's source code available to the public'.</p>
 📺 <a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github?</a><br>
 <br>
