@@ -14,7 +14,7 @@
 </div>
 <p>Github is the largest platform of free and open-source software. Many people and companies use it to improve their collaboration and workflow. This guide will show you how to commit files and suggest changes with a pull request! Hopefully, you'll learn how to use Github and learn about some of its history too!</p>
 <br>
-<p>Below is my four part introduction to Github, from it's history to the creation of commits and pull requests. This should only take fifteen minutes!</p>
+<p>Below is my four part introduction to Github, from it's history to the creation of commits and pull requests. This should only take fifteen minutes! So, strap in and lets blast off!</p>
 <details open>
   <summary><h2>Welcome to Github</h2></summary>
   <p>Welcome to my <i>'Introduction of Github'</i>! 👋</p>
@@ -31,6 +31,7 @@
   <b>What is a branch?</b>
   <p>A branch is a parallel copy of your <code>main</code> branch. It allows you to commit edits and preview them, then you can create a pull request to merge it to the live branch.</p>
   📖 <a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary#branch">What is a branch?</a><br>
+  <br>
   <b>What is a pull request?</b>
   <p>A pull request is a request you can make which suggests merging a branch with the <code>main</code> branch. They can only be approved by the repository's collaborators or owner(s).</p>
   📖 <a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary#pull-request">What is a pull request?</a><br>
