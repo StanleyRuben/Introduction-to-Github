@@ -46,9 +46,9 @@
   <p>Go to your repository's landing page and navigate to the branch button, which when it's clicked it will show a nifty drop-down menu!</p>
   
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/310831ef-dba0-4d82-83c5-cff7bdf2631a" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/f927e1c1-a977-4387-a038-d488e0c1d315" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/310831ef-dba0-4d82-83c5-cff7bdf2631a">
+    <source srcset="https://github.com/user-attachments/assets/9e099697-f6e9-49dd-9cbb-0e132afd10d4" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/user-attachments/assets/b2894f03-e5aa-4661-b42e-0a4c7dde75a4" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/9e099697-f6e9-49dd-9cbb-0e132afd10d4">
   </picture>
   <br>
   <br>
@@ -94,9 +94,9 @@
   <p>Again, go to your repository's landing page and find the 'Add file' button, then when it's clicked it will show a menu with the options to create or upload a file.</p>
 
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/8c19f0f6-79fc-4c2f-b67a-74afaad4444d" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/4de26ffe-b59e-4bcd-87b7-293cd494caaa" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/8c19f0f6-79fc-4c2f-b67a-74afaad4444d">
+    <source srcset="https://github.com/user-attachments/assets/26564825-eae0-4997-b2e9-ac85a677c310" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/user-attachments/assets/4cfe4f9a-5b75-4cd0-bca3-0507b6a71f97" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/26564825-eae0-4997-b2e9-ac85a677c310">
   </picture>
   <br>
   <br>
@@ -112,24 +112,24 @@
   <br>
   <br>
   <br>
-  <h3>Click One of the Commiting Options ✒️</h3>
-  <p>Depending on which option you chose to add a file, you will either have to write code in the window, or you'll have to upload a file from your computer.</p>
+  <h3>Click One of the Add Options ✒️</h3>
+  <p>Depending on which option you chose to add a file, you will either have to write code in the window, or you'll have to upload a file from your computer. Then commit the file.</p>
 
   <h4>Writing a New File 🧠</h4>
-  
+
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/522934e1-39b1-4713-8b7b-9a7c7ba59bf5" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/6e008482-37a6-4e2c-8ee5-461b044f9f0f" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/522934e1-39b1-4713-8b7b-9a7c7ba59bf5">
+    <source srcset="https://github.com/user-attachments/assets/b15311e1-5930-49b5-87db-360518f78a29" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/user-attachments/assets/2a6bbd59-0d86-49a6-b395-003e8b82eba2" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/b15311e1-5930-49b5-87db-360518f78a29">
   </picture>
   <br>
   <br>
   <h4>Uploading a New File ☁️</h4>
   
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/9a10e1b8-62c6-4761-a0cd-0be767c57778" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/6f517bce-3895-4d6c-b453-4de00554e479" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/9a10e1b8-62c6-4761-a0cd-0be767c57778">
+    <source srcset="https://github.com/user-attachments/assets/91d015c0-9a27-415a-9716-c82b2133f1b5" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/user-attachments/assets/8b5b8d95-c64b-4406-8e91-360ff899af3d" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/91d015c0-9a27-415a-9716-c82b2133f1b5">
   </picture>
 </details>
 <details>
@@ -140,18 +140,18 @@
   <br>
   <h3>Find and Click the 'Pull requests' Tab 🖱️</h3>
   <p>Go to your repository's homepage then find the 'Pull request' tab, and click it. This will show your pull requests.</p>
-  
+
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/47acf0b5-15e8-4846-ade2-3e5fb545f1a0" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/90ba4b8d-3dc6-4c69-be87-a78dc5fb39b0" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/47acf0b5-15e8-4846-ade2-3e5fb545f1a0">
+    <source srcset="https://github.com/user-attachments/assets/83bdb2f2-b471-4364-83f3-c4c07078df34" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/user-attachments/assets/2509adc9-aed9-47d9-a680-2228db655cac" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/83bdb2f2-b471-4364-83f3-c4c07078df34">
   </picture>
   <br>
   <br>
   <br>
   <h3>View and Select Your Branch You Want to Merge 🤔</h3>
   <p>Once the menu has opened, select the branch you want to merge with the <code>main</code> branch.</p>
-  
+
   <picture>
     <source srcset="https://github.com/user-attachments/assets/34d36aa0-30b3-43f8-98ef-d8f86d7bf9e1" media="(prefers-color-scheme: light)">
     <source srcset="https://github.com/user-attachments/assets/b163c3c9-03a9-4008-8042-79c6b90340e0" media="(prefers-color-scheme: dark)">
@@ -164,9 +164,9 @@
   <p>When you have clicked the branch you want to merge, a window will come up with the changes you've made. You can review them as necessary.</p>
   
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/735e8a8a-8b01-4f5a-9053-bb60f1ee3442" media="(prefers-color-scheme: light)">
-    <source srcset="https://github.com/user-attachments/assets/415dfd2f-e264-4e63-89bf-b4479ac85b9d" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/user-attachments/assets/735e8a8a-8b01-4f5a-9053-bb60f1ee3442">
+    <source srcset="https://github.com/user-attachments/assets/3059279c-6e81-46f6-bc65-c2dbde5bfc8a" media="(prefers-color-scheme: light)>
+    <source srcset="https://github.com/user-attachments/assets/40c11fdf-64ef-4d70-bb1e-06f7234dbe19" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/user-attachments/assets/3059279c-6e81-46f6-bc65-c2dbde5bfc8a">
   </picture>
   <br>
   <br>
@@ -182,4 +182,16 @@
   <br>
   <br>
   <br>
+</details>
+<details>
+  <summary><h2>Completion</h2></summary>
+  <p>Congrulations <i>friend</i>! You've learnt some basic skills about Github! 😎</p>
+  <p>To recap, you've learn how to:</p>
+  <ul>
+    <li>You've learnt what Github, repositories, branches, commits and pull requests are.</li>
+    <li>You've created a branch, commit and pull request!</li>
+    <li>Finally, you've made your first contribution! 🎊</li>
+  </ul>
+  <br>
+  <p>Hopefully, you should now have the skills to contribute to projects on Github now!</p>
 </details>
