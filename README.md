@@ -171,7 +171,7 @@
   <br>
   <br>
   <br>
-  <h3>Write the Pull</h3>
+  <h3>Write the Pull ✍️</h3>
   <p>Finally, when you've reviewed your changes, you can write a pull request on what you changed and why it should be merged with the live branch!</p>
   
   <picture>
