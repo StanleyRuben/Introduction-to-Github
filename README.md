@@ -14,14 +14,14 @@
 </div>
 <p>Github is the largest platform of free and open-source software. Many people and companies use it to improve their collaboration and workflow. This guide will show you how to commit files and suggest changes with a pull request! Hopefully, you'll learn how to use Github and learn about some of its history too!</p>
 <br>
-<p>Below is my four part introduction to Github, from it's history to the creation of commits and pull requests. This should only take fifteen minutes! So, strap in and lets blast off!</p>
+<p>Below is my three part introduction to Github, from it's history to the creation of commits and pull requests. This should only take fifteen minutes! So, strap in and lets blast off!</p>
 <details open>
   <summary><h2>Welcome to Github</h2></summary>
   <p>Welcome to my <i>'Introduction of Github'</i>! 👋</p>
   <b>What is Github?</b>
-  <p>Github is a service which was founded in 2008, by a small group. It quickly grew and in 2010, there was over one million repositories!</p><p>Then in 2015, the company was worth $1 billion USD! Finally in 2018, Microsoft acquired the company for $7.5 billion USD.</p>
+  <p>Github is a service which was founded in 2008, by a group of four developers. It quickly grew and in 2011, there was over one million public repositories!</p><p>Then in 2015, the company was worth $1 billion USD! Tehn in 2018, Microsoft acquired the company for $7.5 billion USD.</p>
   <p>Did you know that Github is actually based on Git! Which was made by Linus Torvalds for the Linux kernel. Git is a distributed, version control program which gives a copy of the project to all of the developers and allows them to safely commit to the project with branches.</p>
-  <p>Although, Github now fosters the open source community. This is due to the easy of contributing and hosting software on Github. It apparently also hosts the most open-source software!</p>
+  <p>Although, Github now fosters the open source community. This is due to the easy of contributing and hosting software on Github. It also hosts the most open-source software!</p>
   📺 <a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github?</a><br>
   <br>
   <b>What is a repository?</b>
