@@ -164,7 +164,7 @@
   <p>When you have clicked the branch you want to merge, a window will come up with the changes you've made. You can review them as necessary.</p>
   
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/3059279c-6e81-46f6-bc65-c2dbde5bfc8a" media="(prefers-color-scheme: light)>
+    <source srcset="https://github.com/user-attachments/assets/3059279c-6e81-46f6-bc65-c2dbde5bfc8a" media="(prefers-color-scheme: light)">
     <source srcset="https://github.com/user-attachments/assets/40c11fdf-64ef-4d70-bb1e-06f7234dbe19" media="(prefers-color-scheme: dark)">
     <img src="https://github.com/user-attachments/assets/3059279c-6e81-46f6-bc65-c2dbde5bfc8a">
   </picture>
