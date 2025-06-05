@@ -185,7 +185,7 @@
 </details>
 <details>
   <summary><h2>Completion</h2></summary>
-  <p>Congrulations <i>friend</i>! You've learnt some basic skills about Github! 😎</p>
+  <p>Congrulations <i>friend</i>! You've learnt some basic skills about Github! 👍</p>
   <p>To recap, you've learn how to:</p>
   <ul>
     <li>You've learnt what Github, repositories, branches, commits and pull requests are.</li>
